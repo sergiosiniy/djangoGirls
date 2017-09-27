@@ -25,7 +25,7 @@ SECRET_KEY = 'w23&xu4p)6$pga180*ak09(=$1ja9gp6!hj9-!ycb=rzb2*)9^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '192.168.1.121']
+ALLOWED_HOSTS = ['127.0.0.1', '192.168.1.121', 'sergiosiniy.pythonanywhere.com']
 
 
 # Application definition
